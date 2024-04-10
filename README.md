@@ -1,6 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FcoconutLatte&labelColor=%23dce775&countColor=%23555555)
 
-*Losing isn't fun that's why i don't do it*
+*Losing isn't fun that's why I don't do it*
 
 # About me
 Committed to becoming a full-stack engineer
