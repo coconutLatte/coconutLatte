@@ -9,3 +9,8 @@ Committed to becoming a full-stack engineer
 - Software Knowledge: Cloud Native, Remote Desktop Protocol, HPC Cluster Scheduler, CAE Simulation Software ...
 - Language: go/python/c/c++/java/js/ts
 - Tools: JetBrains IDEs/VSCode/K8s/Docker/LXD/Ansys/Chatgpt...
+
+# 2025 Annual Goals
+- [x] Join a company with hardware technology
+- [ ] Learn some hardware technology
+- [ ] build my own Jarvis with AI
